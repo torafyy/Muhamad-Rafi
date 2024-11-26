@@ -1,0 +1,23 @@
+body { 
+  padding-top: 70px; /* Sesuaikan tinggi navbar */ 
+  background: rgb(161,0,0);
+background: linear-gradient(90deg, rgba(161,0,0,1) 0%, rgba(79,79,110,1) 50%, rgba(0,10,150,1) 100%);
+} 
+ 
+.navbar { 
+  background-color: #40414F; /* Navbar sedikit lebih gelap */ 
+  border-bottom: 1px solid #565869; /* Garis bawah halus */ 
+} 
+ 
+.nav-link { 
+  color: #Ffb7c5 !important; /* Warna teks navbar */ 
+} 
+ 
+.nav-link:hover { 
+  color: #FFFFFF !important; /* Warna hijau lembut saat hover */ 
+}
+
+p.ig {
+  text-decoration: none;
+  color: #FFFFFF;
+}
